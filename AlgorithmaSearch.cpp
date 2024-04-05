@@ -66,5 +66,6 @@ void linearSearch()
 void display()
 {
 	cout << "Array elements are: ";
+	for (1 = 0; i < n; i++)
 
 }
