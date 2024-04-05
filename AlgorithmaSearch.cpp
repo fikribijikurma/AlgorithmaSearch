@@ -34,8 +34,16 @@ void linearSearch()
 	int ctr; // Number of comparisons
 	int item;
 
-	do {
+	do
+	{
+		// Accept the numberto be searched
+		cout << "\nEnter the elementyou want to search: ";
+		cin >> item;
 
+		ctr = 0;
+		i = 0; // step 2
+		while (i < n) // step 3 
+		{
 	}
 
 }
