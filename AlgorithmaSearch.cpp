@@ -5,7 +5,7 @@ int arr[20]; // Array to be searched
 int n;       // Number of elements in the array
 int i;       // index of array element
 
-void input() 
+void input()
 {
 	while (true)
 	{
@@ -21,5 +21,10 @@ void input()
 	cout << "\n---------------------\n";
 	cout << " Enter array elements \n";
 	cout << "\n---------------------\n";
-	for (1 == 0; i < n; i++)
+	for (i = 0; i < n; i++) 
+	{
+		cout << "<" << (i + 1)
+		
+	}
+
 }
